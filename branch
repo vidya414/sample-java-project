@@ -1,0 +1,8 @@
+public class java3{
+public static void main(String args[]){
+int j=10;
+jav1 s=new jav1();
+s.i=10;
+System.out.println("i+j":(i+j));
+}
+}
